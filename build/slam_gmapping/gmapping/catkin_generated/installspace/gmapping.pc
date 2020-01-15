@@ -1,0 +1,8 @@
+prefix=/home/workspace/home_service/install
+
+Name: gmapping
+Description: Description of gmapping
+Version: 1.4.0
+Cflags: 
+Libs: -L/home/workspace/home_service/install/lib 
+Requires: 

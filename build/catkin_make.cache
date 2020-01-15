@@ -1,0 +1,2 @@
+slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/workspace/home_service/devel -DCMAKE_INSTALL_PREFIX=/home/workspace/home_service/install -G Unix Makefiles
